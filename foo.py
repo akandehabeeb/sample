@@ -1,1 +1,2 @@
-sdsdssadsa;lmkcmsdcdsncvch hc  dhv hv 
+import pandas as pd
+data=pd.read_csv(filename)
